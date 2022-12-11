@@ -1,10 +1,7 @@
-# Codigo 22: tooLong
+# Código número 22
 
 ## ¿Que hace?
-Convierte las primeras 72 lineas de un archivo de texto para que puedan ser interpretadas
-
-### **Observaciones**
-El codigo no tiene ninguna observacion
+Traduce las primeras 72 líneas del archivo de texto para entenderlas
 
 ```bash
 
